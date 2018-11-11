@@ -1,0 +1,2 @@
+URxvt.font:		xft:Fira Code:pixelsize=14:antialias=true:hinting=true
+URxvt.scrollBar:	false
