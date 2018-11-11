@@ -4,3 +4,4 @@ cp ~/DotFiles/.Xresources ~/.Xresources
 cp ~/DotFiles/rofi.conf ~/.config/rofi/config
 cp ~/DotFiles/polybar.conf ~/.config/polybar/config
 cp ~/DotFiles/polybarLaunch.sh ~/.config/polybar/polybarLaunch.sh
+cp ~/DotFiles/rc.conf ~/.config/ranger/rc.conf
